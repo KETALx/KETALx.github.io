@@ -3,7 +3,7 @@ Brn [counter-strike 2]
 Rework of csgo map https://steamcommunity.com/sharedfiles/filedetails/?id=2964665512 that was made for MapINK Minimalism event.
 
 ---
-Source 2
+Source 2, Hammer editor
 ---
 https://steamuserimages-a.akamaihd.net/ugc/2499012105946782960/25C9A7C4C0FFCE18EFF4A7B94FC64EC7762D3558/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 ---
