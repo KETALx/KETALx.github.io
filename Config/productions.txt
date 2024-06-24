@@ -18,5 +18,5 @@ CS2 Map maker
 None
 2023 - present
 https://productionimage.jpg 
-Developing maps for counter-strike 2
+Community map developer for counter-strike 2
 ---
