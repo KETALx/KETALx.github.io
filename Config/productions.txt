@@ -3,20 +3,20 @@
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
 Soucre 1 mapper
-None
+steam
 2016-2021
-https://productionimage.jpg 
+https://cdn.discordapp.com/attachments/1254692308146716704/1254793486440337498/4f04ecc6e0be5462803da9da1d008b17887ea8e6.png?ex=667ac900&is=66797780&hm=85b923e5a9c0cf0bb0235b35c31a1ecc23c8876450d11b4b9dbdc449524affc7&
 Source 1 Hobbyst map maker
 ---
 Rust/CS2 skin making
-None
+steam
 2020 - present
-https://productionimage.jpg 
+https://cdn.discordapp.com/attachments/1254692308146716704/1254793486440337498/4f04ecc6e0be5462803da9da1d008b17887ea8e6.png?ex=667ac900&is=66797780&hm=85b923e5a9c0cf0bb0235b35c31a1ecc23c8876450d11b4b9dbdc449524affc7&
 ugc content for rust and cs2
 ---
 CS2 Map maker
-None
+steam
 2023 - present
-https://productionimage.jpg 
+https://cdn.discordapp.com/attachments/1254692308146716704/1254793486440337498/4f04ecc6e0be5462803da9da1d008b17887ea8e6.png?ex=667ac900&is=66797780&hm=85b923e5a9c0cf0bb0235b35c31a1ecc23c8876450d11b4b9dbdc449524affc7&
 Community map developer for counter-strike 2
 ---
