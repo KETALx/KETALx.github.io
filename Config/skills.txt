@@ -1,0 +1,8 @@
+Level Design
+3D Modelling
+Texturing
+Tileable Materials
+Environment Art
+High Poly Modelling
+UV-Unwrapping
+Game Programming

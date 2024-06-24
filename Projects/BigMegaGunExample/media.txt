@@ -1,0 +1,17 @@
+https://previews.dropbox.com/p/thumb/ACQT0Z5qrpj6qKz7kqzc_7xef-5A1IKUlUDymDGpil_U52gZAMe6LdqP8wDfxuh7QaFzwRdFzLZVsy6QX2Wmeck_qzJxKr-HpbZO_O6fFcqjfs7UsLtzv_cMdncpWYvuNNaUb6ANlAH8ZAjHaUT_CLjfbimku_bo7XqbUyTWaIl8t6ML-B6II1sTk0APPDthjwjsODS1_1iiHF4punhTuAtvlh6hicDEqikyeYwayTVRR8kbw0ZavdATsEB6jWWZS-Jg4GEw5ZWFxRrbuVvfCgnsukPCsIiEpMxVB9jCVfOsWFNTKM7JDV6q3twY1X-gaZbgGLChopOcwpy5llsKL_cV/p.jpeg
+Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+
+https://example2.jpg
+Description for example2.jpg.
+
+https://example3.gif
+These aren't real images but need replacing with your own.
+
+https://examplevideo.mp4
+MP4's are also supported but like with images should be hosted somewhere like dropbox.
+
+https://beforepic.png // https://afterpic.png
+You can create before and after slider by seperating two urls with ' // ' 
+
+https://sketchfabexample.com 
+you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
