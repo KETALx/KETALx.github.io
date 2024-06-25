@@ -1,14 +1,7 @@
-Triangles: 
-2000
-Materials: 
-32
-Texture Size: 
-4096x4096
-Texel Density: 
-0
-Workflow: 
-PBR metal/roughness
-Target Engine: 
-Source 2
-Collaborators:
-2
+Target Engine: Source 2
+
+Collaborators: Olaf
+
+Game: Counter-strike 2
+
+Game mode: "Arms Race"

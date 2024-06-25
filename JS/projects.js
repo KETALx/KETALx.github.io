@@ -242,7 +242,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 'Texel Density': 'square_foot',
                 'Target Engine': 'gamepad',
                 'Workflow': 'brush',
-                'Collaborators': 'groups'
+                'Collaborators': 'groups',
+                'Game': 'sports_esports',
+                'Game mode': 'tune'
             };
 
             const iconClassMap = {
@@ -252,7 +254,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 'Texel Density': 'td-icon',
                 'Target Engine': 'engine-icon',
                 'Workflow': 'workflow-icon',
-                'Collaborators': 'collab-icon'
+                'Collaborators': 'collab-icon',
+                'Game': 'game-icon'
             };
 
             lines.forEach(line => {
